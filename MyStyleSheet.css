@@ -1,0 +1,76 @@
+﻿html
+{
+    background-color: slategrey;
+    background-image: url(Resources/Background_Main.jpg);
+}
+
+.Menu 
+{
+    background-color: #1b1b1b;
+    background-image: url(Resources/MenuBanner.gif);
+    background-size: cover;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 3px #1b1b1b;
+    font-family: "Verdana";
+}
+
+.MenuLinks
+{
+    text-align: left;
+    padding-right: 25px;
+}
+
+body
+{
+    margin: auto;
+    width: 1000px;
+    height: 1000px;
+    border: inset;
+    background-image: url(Resources/Background_Body.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    font-family: Verdana;
+}
+
+h1
+{
+   text-align: left; 
+}
+a:link
+{
+    color: white;
+}
+a:visited
+{
+    color: white;
+}
+a:hover
+{
+    color: #1b1b1b;
+}
+
+.FocusText
+{
+    text-align: justify;
+}
+
+.BlogTitle 
+{
+    margin-left: 25px;
+    max-width: 500px;
+    background-color: darkslategrey;
+    color: white;
+    box-shadow: #1b1b1b  5px 5px 10px;
+    font-family: Verdana;
+    text-shadow: 2px 2px 2px #1b1b1b;
+}
+.BlogArea {
+    padding: 10px;
+    max-width: inherit;
+    background-color: white;
+    color: black;
+    font-family: inherit;
+    text-shadow: 2px 2px 2px #1b1b1b;
+}
