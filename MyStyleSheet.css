@@ -4,7 +4,7 @@
     background-image: url(Resources/Background_Main.jpg);
 }
 
-.Menu 
+.header 
 {
     background-color: #1b1b1b;
     background-image: url(Resources/MenuBanner.gif);
@@ -15,6 +15,16 @@
     text-shadow: 2px 2px 3px #1b1b1b;
     font-family: "Verdana";
 }
+
+.footer
+{
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 3px #1b1b1b;
+    font-family: "Verdana";
+    background-color: #1b1b1b;
+}
+    
 
 .MenuLinks
 {
