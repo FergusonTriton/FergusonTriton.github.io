@@ -6,8 +6,7 @@
 
 .header 
 {
-    background-color: #1b1b1b;
-    background-image: url(Resources/MenuBanner.gif);
+    background-color: #009999;
     background-size: cover;
     padding: 10px;
     color: white;
@@ -20,7 +19,7 @@ footer
 {
     color: white;
     text-align: center;
-    text-shadow: 2px 2px 3px #1b1b1b;
+    text-shadow: 2px 2px 3px #009999;
     font-family: "Verdana";
     background-color: #1b1b1b;
 }
