@@ -46,7 +46,7 @@ body
     border: inset;
     background-image: url(Resources/Background_Body.jpg);
     background-repeat: no-repeat;
-    background-position: bottom;
+    background-size: 100% 100%;
     font-family: Verdana;
     box-shadow: #1b1b1b  5px 5px 10px;
 }
