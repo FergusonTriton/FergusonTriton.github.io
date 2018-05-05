@@ -22,6 +22,8 @@ html
 
 footer
 {
+    margin: 0;
+    height: 30px;
     width: 100%;
     bottom: 0;
     position: absolute;
