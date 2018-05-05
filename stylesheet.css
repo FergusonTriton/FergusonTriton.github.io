@@ -1,7 +1,9 @@
-﻿html
+
+html
 {
     background-color: slategrey;
     background-image: url(Resources/Background_Main.jpg);
+    backround-size: cover;
 }
 
 .header 
