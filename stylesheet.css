@@ -3,7 +3,7 @@ html
 {
     background-color: slategrey;
     background-image: url(Resources/Background_Main.jpg);
-    backround-size: cover;
+    background-size: 100% 100%;
 }
 
 .header 
