@@ -41,6 +41,7 @@ footer
 body
 {
     margin: auto;
+    height: 100%;
     width: 90%;
     border: inset;
     background-image: url(Resources/Background_Body.jpg);
