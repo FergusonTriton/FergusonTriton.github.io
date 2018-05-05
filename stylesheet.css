@@ -48,6 +48,7 @@ body
     margin: auto;
     height: 100%;
     width: 90%;
+    bottom: 75;
     border: inset;
     background-image: url(Resources/Background_Body.jpg);
     background-repeat: no-repeat;
