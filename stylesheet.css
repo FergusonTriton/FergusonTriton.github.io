@@ -49,12 +49,9 @@ footer
 
 .Videos
 {
+    padding: 50px
+        
     box-shadow: 0px 10px 10px;
-}
-
-img
-{
-    width: 50%;
 }
 
 .ProfileImage
@@ -65,7 +62,7 @@ img
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 50%;
+    border-radius: 40%;
     box-shadow: 0px 5px 10px;
 }
 
