@@ -39,6 +39,7 @@ footer
 
 .MenuLinks
 {
+    display: inline;
     text-align: left;
     padding-right: 25px;
 }
