@@ -47,8 +47,7 @@ footer
 
 .Videos
 {
-    width: 90%;
-    height: 360px;
+    box-align: center;
     box-shadow: 0px 10px 10px;
 }
 
