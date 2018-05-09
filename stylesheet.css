@@ -39,10 +39,16 @@ footer
 
 .MenuLinks
 {
-    font-size: 20px;
+    font-size: 16px;
     text-align: left;
     padding-right: 25px;
     padding-left: 25px;
+}
+
+.Videos
+{
+    
+    box-shadow: 10px 10px 10px;
 }
 
 body
