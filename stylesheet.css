@@ -12,6 +12,9 @@ html
 .header 
 {
     background-color: #009999;
+    background-image: url(Resources/curcuit.jpg;
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
     background-size: cover;
     padding: 10px;
     color: white;
