@@ -1,4 +1,4 @@
-var myButton = document.querySelector('Button');
+var myButton = document.querySelector('Home');
 myButton.onclick = function ()
 {
   ShowSomething();
