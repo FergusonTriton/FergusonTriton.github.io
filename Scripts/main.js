@@ -6,7 +6,7 @@ myButton.onclick = function ()
 
 function ShowSomething()
 {
-  myButton.textContent = 'FUCK!';
+  window.open("TritonFerguson.com","_self")
 }
 
 
