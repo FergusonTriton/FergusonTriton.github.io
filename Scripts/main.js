@@ -1,12 +1,12 @@
 var myButton = document.querySelector('Home');
 myButton.onclick = function ()
 {
-  ShowSomething();
+  ChangeText();
 }
 
-function ShowSomething()
+function ChangeText ()
 {
-  window.open("TritonFerguson.com","_self")
+ document.getElementById("demo").innerHTML = "Hello JavaScript!";
 }
 
 
