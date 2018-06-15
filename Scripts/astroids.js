@@ -4,6 +4,11 @@ function keyCode(event)
     var x = event.keyCode;
     if (x == 27) 
     {
-        alert ("You pressed the Escape key!");
+        changepic();
     }
+}
+
+function changepic()
+{
+ document.getElementById("space").style.top=200 + "px";  
 }
