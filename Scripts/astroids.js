@@ -12,6 +12,5 @@ function keyCode(event)
 
 function changepic()
 {
- spaceImg.style.width='200px';
     spaceImg.style.top=600 + "px";
 }
