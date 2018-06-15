@@ -1,8 +1,8 @@
 
 function keyCode(event) 
 {
-    var x = event.keyCode;
-    if (x == 27) 
+    var char = event.which || event.keyCode;
+    if (char == 97) 
     {
         changepic();
     }
