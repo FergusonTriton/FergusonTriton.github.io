@@ -1,8 +1,4 @@
 var myButton = document.querySelector('Home');
-myButton.onclick = function ()
-{
-  ChangeText();
-}
 
 function ChangeText ()
 {
