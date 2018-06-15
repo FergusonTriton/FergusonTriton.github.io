@@ -10,5 +10,5 @@ function keyCode(event)
 
 function changepic()
 {
- document.getElementById("space").style.width=200;
+ document.getElementById("space").style.width='200px';
 }
