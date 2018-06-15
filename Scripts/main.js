@@ -1,4 +1,3 @@
-var myButton = document.querySelector('Home');
 
 function ChangeText ()
 {
