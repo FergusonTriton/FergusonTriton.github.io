@@ -2,7 +2,7 @@
 function keyCode(event) 
 {
     var x = event.keyCode;
-    if (x == 65) 
+    if (x == 27) 
     {
         changepic();
     }
