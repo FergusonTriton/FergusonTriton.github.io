@@ -1,3 +1,5 @@
+var spaceImg = document.getElementById('space');
+
 
 function keyCode(event) 
 {
@@ -10,5 +12,5 @@ function keyCode(event)
 
 function changepic()
 {
- document.getElementById("space").style.width='200px';
+ spaceImg.style.width='200px';
 }
